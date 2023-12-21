@@ -19,7 +19,8 @@
 - 💬 Ask me about Full Stack Development, API Design, Database Management, and Cloud Engineering.
 - 📧 Reach out to me at: abdisaleban313@gmail.com
 - 🌐 Seattle, WA
-- 📎 [LinkedIn](linkedin.com/in/abdisaleban)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abdisaleban/) | [GitHub](https://github.com/WyrmforgeDev)
+
 
 <br/>
 
