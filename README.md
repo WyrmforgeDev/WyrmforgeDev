@@ -30,6 +30,25 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/.NET%20Core-Expert-brightgreen?style=for-the-badge" alt=".NET Core">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET-Expert-brightgreen?style=for-the-badge" alt=".NET">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET%20Framework-Expert-brightgreen?style=for-the-badge" alt=".NET Framework">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-Expert-brightgreen?style=for-the-badge" alt="ASP.NET Core">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/C%23-Expert-brightgreen?style=for-the-badge" alt="C#">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/SQL%20T--SQL-Expert-brightgreen?style=for-the-badge" alt="T-SQL">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-Proficient-yellow?style=for-the-badge" alt="PostgreSQL">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript/TypeScript-Proficient-yellow?style=for-the-badge" alt="JavaScript/TypeScript">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/React-Proficient-yellow?style=for-the-badge" alt="React">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Angular-Proficient-yellow?style=for-the-badge" alt="Angular">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GCP-Proficient-yellow?style=for-the-badge" alt="Google Cloud Platform">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-Proficient-yellow?style=for-the-badge" alt="MySQL">
+</p>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;
