@@ -32,21 +32,23 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/.NET%20Core-Expert-brightgreen?logo=.NET&style=for-the-badge" alt=".NET Core">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/.NET-Expert-brightgreen?logo=.NET&style=for-the-badge" alt=".NET">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/.NET%20Framework-Expert-brightgreen?logo=.NET&style=for-the-badge" alt=".NET Framework">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-Expert-brightgreen?logo=ASP.NET&style=for-the-badge" alt="ASP.NET Core">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C%23-Expert-brightgreen?logo=Csharp&style=for-the-badge" alt="C#">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/SQL%20T--SQL-Expert-brightgreen?logo=MicrosoftSQLServer&style=for-the-badge" alt="T-SQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net-core/dot-net-core-original.svg" alt=".NET Framework" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" alt="ASP.NET Core" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" height="50">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-Proficient-yellow?logo=PostgreSQL&style=for-the-badge" alt="PostgreSQL">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript/TypeScript-Proficient-yellow?logo=JavaScript&style=for-the-badge" alt="JavaScript/TypeScript">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-Proficient-yellow?logo=React&style=for-the-badge" alt="React">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Angular-Proficient-yellow?logo=Angular&style=for-the-badge" alt="Angular">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GCP-Proficient-yellow?logo=GoogleCloud&style=for-the-badge" alt="Google Cloud Platform">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-Proficient-yellow?logo=MySQL&style=for-the-badge" alt="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript/TypeScript" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50">
 </p>
+
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;
