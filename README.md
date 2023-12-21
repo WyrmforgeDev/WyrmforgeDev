@@ -15,9 +15,11 @@
 ### Software Engineer/.NET Developer
 
 - 🔭 I’m currently working as a .NET Engineer 
-- 🌱 I’m currently learning: Docker Containization
-- 💬 Ask me about __Full Stack Development, Mobile and Desktop Applications, Software Solutions, DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev..._
-
+-🌱 Continuously learning and exploring new technologies, currently focusing on Docker.
+- 💬 Ask me about Full Stack Development, API Design, Database Management, and Cloud Engineering.
+- 📧 Reach out to me at: abdisaleban313@gmail.com
+- 🌐 Seattle, WA
+- 📎 [LinkedIn](linkedin.com/in/abdisaleban)
 
 <br/>
 
