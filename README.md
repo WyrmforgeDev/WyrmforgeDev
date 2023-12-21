@@ -104,8 +104,7 @@
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"  height="50">
-    <!-- Add more icons here -->
-    <!-- Ensure each line has 6 icons -->
+
 </p>
 
 
@@ -115,25 +114,6 @@
 
 
 <h3 align="center">A seasoned Software Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsaifi0890" alt="waleedsaifi0890" /></a> </p>
-
-
-<h3 align="left">Statistics</h3>
-<p align="left">
-</p>
-
-
-<p align="center">
-    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsaifi0890&show_icons=true&locale=en&layout=compact" alt="waleedsaifi0890" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=schwert-gottes&show_icons=true&locale=en" alt="schwert-gottes" width="40%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schwert-gottes&" alt="schwert-gottes" width="40%" />
-</p>
-
 
 
 
